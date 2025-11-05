@@ -1,0 +1,44 @@
+🟢 NVIDIA Stock Analysis (2015–2024) | Power BI Dashboard
+📊 Project Overview
+This project presents a comprehensive analysis of NVIDIA’s stock performance from 2015 to 2024, built using Power BI. The interactive dashboard visualizes key financial trends, stock price movements, and trading volume patterns to uncover long-term investment insights.
+
+🔍 Key Insights
+
+NVIDIA’s stock often peaks between November–December and dips between January–March.
+
+Demonstrates strong end-of-year growth across multiple years.
+
+Identifies seasonal investment behavior and volatility patterns over a decade.
+
+Highlights yearly high–low price ranges, average close values, and volume trends.
+
+🧩 Tools & Techniques
+
+Power BI – Dashboard design and data visualization
+
+DAX (Data Analysis Expressions) – Custom KPIs and measures
+
+Data Modeling – Relationship management for efficient analysis
+
+Excel/CSV – Data preprocessing and source integration
+
+📈 Dashboard Features
+
+Interactive filters for year, month, and price range
+
+KPIs tracking average price, yearly growth rate, and volume trends
+
+Time-series charts and trend analysis visuals
+
+Clear, investor-friendly layout for financial insights
+
+💡 Key Learning
+This project strengthens skills in financial data analysis, time-series visualization, and business intelligence reporting — ideal for Data Analysts focusing on the finance domain.
+
+📂 Files Included
+nvidia_stock_2015_to_2024.csv – Cleaned stock data (2015–2024)
+
+dashboard.pbix – Power BI dashboard file
+
+🏷️ Tags
+#PowerBI #DataAnalytics #StockMarketAnalysis #DataVisualization #FinancialAnalytics #NVIDIA #DashboardDesign
